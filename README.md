@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+%F0%9F%91%8B;This+is+66Leo66.;Glad+to+meet+you!)](https://git.io/typing-svg)
 
 <!-- [![66Leo66's GitHub stats](https://github-readme-stats.vercel.app/api?username=66Leo66&show_icons=true&theme=nord)](https://github.com/66Leo66) -->
 
